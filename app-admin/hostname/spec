@@ -1,0 +1,4 @@
+VER=3.25
+SRCS="git::commit=tags/debian/$VER::https://salsa.debian.org/meskes/hostname"
+CHKSUMS="SKIP"
+CHKUPDATE="anitya::id=11431"
